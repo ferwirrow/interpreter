@@ -24,6 +24,7 @@ The main goal of this project is to gain a deeper understanding of compiler and 
 
 ## Example Code
 
+```pink
 x := 0
 x := x + 1
 
